@@ -1,3 +1,4 @@
 # 60 dias de programação em python (ackerdemy)
- - [] Dia 1 - sintaxe , fundamentos.
- - [] Dia 2 - 
+ - [x] Dia 1 - Sintaxe , fundamentos.
+ - [x] Dia 2 - Somar numeros de forma diferente.
+ - [ ] Dia 3 - 
