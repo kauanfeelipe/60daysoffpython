@@ -3,5 +3,6 @@
  - [x] Dia 2 - Somar numeros de forma diferente.
  - [x] Dia 3 - Condicional pra verificar se o numero inserido é par, impar.
  - [x] Dia 4 - Laços de repetição, for / while
- - [ ] Dia 5 - 
+ - [x] Dia 5 - Função pra imprimir numero ao quadrado
+ - [x] Dia 6 - Iterando em uma lista de frutas
 
