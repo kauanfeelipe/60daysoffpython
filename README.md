@@ -5,4 +5,6 @@
  - [x] Dia 4 - Laços de repetição, for / while
  - [x] Dia 5 - Função pra imprimir numero ao quadrado
  - [x] Dia 6 - Iterando em uma lista de frutas
+ - [x] Dia 7 - Dicionario dinamico e estatico.
+ - [x] Dia 8 - 
 
