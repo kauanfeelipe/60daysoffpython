@@ -7,6 +7,14 @@
  - [x] Dia 6 - Iterando em uma lista de frutas
  - [x] Dia 7 - Dicionario dinamico e estatico.
  - [x] Dia 8 - Verificando idade e tratando erros.
- - [ ] Dia 9 - 
+ - [x] Dia 9 - Contador personalizado.
+ - [x] Dia 10 - Gerador de senhas particular.
+ - [x] Dia 11 - Usando a função sorted para ordenar uma lista.
+ - [x] Dia 12 - Busca linear utilizando listas.
+ - [x] Dia 13 - Função Fatorial.
+ - [ ] Dia 14 - 
+
+
+
 
 
