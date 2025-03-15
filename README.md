@@ -12,7 +12,8 @@
  - [x] Dia 11 - Usando a função sorted para ordenar uma lista.
  - [x] Dia 12 - Busca linear utilizando listas.
  - [x] Dia 13 - Função Fatorial.
- - [ ] Dia 14 - 
+ - [x] Dia 14 - Calculador de numeros primos
+ - [ ] Dia 15 -
 
 
 
