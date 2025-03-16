@@ -13,8 +13,8 @@
  - [x] Dia 12 - Busca linear utilizando listas.
  - [x] Dia 13 - Função Fatorial.
  - [x] Dia 14 - Calculador de numeros primos
- - [ ] Dia 15 -
-
+ - [x] Dia 15 - Fibonacci
+ - [ ] Dia 16 - 
 
 
 
