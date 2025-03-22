@@ -15,7 +15,12 @@
  - [x] Dia 14 - Calculador de numeros primos
  - [x] Dia 15 - Fibonacci.
  - [x] Dia 16 - Verificando Anagrama.
- - [ ] Dia 17 -
+ - [x] Dia 17 - Função pra verificar palíndromos.
+ - [x] Dia 18 - Contabilizando Palavras.
+ - [x] Dia 19 - Calculando media de notas.
+ - [x] Dia 20 - Matriz Transposta.
+ 
+
 
 
 
