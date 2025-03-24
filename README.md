@@ -20,6 +20,7 @@
  - [x] Dia 19 - Calculando media de notas.
  - [x] Dia 20 - Matriz Transposta.
  - [x] Dia 21 - Conversor de moedas dolar para real.
+ - [x] Dia 22 - Calcula IMC.
  
 
 
