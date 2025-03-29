@@ -21,7 +21,13 @@
  - [x] Dia 20 - Matriz Transposta.
  - [x] Dia 21 - Conversor de moedas dolar para real.
  - [x] Dia 22 - Calcula IMC.
+ - [x] Dia 23 - Jogo de adivinhacao em Python   
+ - [x] Dia 24 - Tabuada em python
+ - [x] Dia 25 - Gerador de numeros aleatorios
+ - [x] Dia 26 - Criando função pra escrever em .txt
+ - [x] Dia 27 - Conversor de temperatura
  
+  
 
 
 
