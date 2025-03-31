@@ -28,7 +28,7 @@
  - [x] Dia 27 - Conversor de temperatura
  - [x] Dia 28 - Cronometro em python
  - [x] Dia 28 - Gerador de data atual
- 
+ - [x] Dia 29 - Gerador data atual
   
 
 
