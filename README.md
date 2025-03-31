@@ -26,6 +26,8 @@
  - [x] Dia 25 - Gerador de numeros aleatorios
  - [x] Dia 26 - Criando função pra escrever em .txt
  - [x] Dia 27 - Conversor de temperatura
+ - [x] Dia 28 - Cronometro em python
+ - [x] Dia 28 - Gerador de data atual
  
   
 
