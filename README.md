@@ -21,14 +21,20 @@
  - [x] Dia 20 - Matriz Transposta.
  - [x] Dia 21 - Conversor de moedas dolar para real.
  - [x] Dia 22 - Calcula IMC.
- - [x] Dia 23 - Jogo de adivinhacao em Python   
- - [x] Dia 24 - Tabuada em python
- - [x] Dia 25 - Gerador de numeros aleatorios
+ - [x] Dia 23 - Jogo de adivinhacao em Python  . 
+ - [x] Dia 24 - Tabuada em python.
+ - [x] Dia 25 - Gerador de numeros aleatorios.
  - [x] Dia 26 - Criando função pra escrever em .txt
- - [x] Dia 27 - Conversor de temperatura
- - [x] Dia 28 - Cronometro em python
- - [x] Dia 28 - Gerador de data atual
- - [x] Dia 29 - Gerador data atual
+ - [x] Dia 27 - Conversor de temperatura.
+ - [x] Dia 28 - Cronometro em python.
+ - [x] Dia 29 - Gerador de data atual.
+ - [x] Dia 30 - Cronometro_10segundos.
+ - [x] Dia 31 - Raiz Quadrada usando biblioteca.
+ - [x] Dia 32 - Lançar dados , numeros aleatorios.
+ - [x] Dia 33 - Contando ocorrencias.
+ - [x] Dia 34 - Manipulando json.
+
+
   
 
 
