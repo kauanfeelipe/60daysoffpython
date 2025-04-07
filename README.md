@@ -33,7 +33,9 @@
  - [x] Dia 32 - Lançar dados , numeros aleatorios.
  - [x] Dia 33 - Contando ocorrencias.
  - [x] Dia 34 - Manipulando json.
-
+ - [x] Dia 35 - Fazendo request em uma api.
+ - [x] Dia 36 - Utilizando BeautifulSoup em links da net.
+ - [x] Dia 37 -
 
   
 
