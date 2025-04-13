@@ -35,10 +35,14 @@
  - [x] Dia 34 - Manipulando json.
  - [x] Dia 35 - Fazendo request em uma api.
  - [x] Dia 36 - Utilizando BeautifulSoup em links da net.
- - [x] Dia 37 -
-
-  
-
+ - [x] Dia 37 - Manipulando arquivos csv.
+ - [x] Dia 38 - IA ChatGBT.
+ - [x] Dia 39 - Exibindo grafico no terminal.
+ - [x] Dia 40 - Programação orientada a objeto.
+ - [x] Dia 41 - Herança com POO.
+ - [x] Dia 42 - Modulo os em Python.
+ - [x] Dia 43 - Tratamento de erros.
+ 
 
 
 
