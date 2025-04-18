@@ -42,7 +42,11 @@
  - [x] Dia 41 - Herança com POO.
  - [x] Dia 42 - Modulo os em Python.
  - [x] Dia 43 - Tratamento de erros.
- 
+ - [x] Dia 44 - Validando emial com regex.
+ - [x] Dia 45 - Utilizando threading em multi tarefas
+ - [x] Dia 46 - Utilizando socket para conexao de servidor com cliente
+ - [x] Dia 47 - Trabalhando com decorator em funções
+ - [x] Dia 48 - Trabalhando com generator
 
 
 
